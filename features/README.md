@@ -1,6 +1,6 @@
 #Features
 
-These are some features that can be used for pattern recognition. I developed them as part of my [masters thesis on handwriting recognition for Bushman languages]{http://pubs.cs.uct.ac.za/archive/00000791/).
+These are some features that can be used for pattern recognition. I developed them as part of my [masters thesis on handwriting recognition for Bushman languages](http://pubs.cs.uct.ac.za/archive/00000791/).
 
 There is a general class features.cpp that can be used to access all other classes.
 
